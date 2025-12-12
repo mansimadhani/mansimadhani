@@ -6,6 +6,6 @@ I'm a junior at UT Austin, pursuing a B.S. in Computer Science with a minor in B
 
 **Languages:** Java, Python, C, JavaScript, TypeScript, SQL  
 
-**Frameworks & Libraries:** React, Node.js,   
+**Frameworks & Libraries:** React, Node.js   
 
 **Tools & Software:** Git, GitHub, GitLab, VS Code, Linux, Figma, Jupyter Notebook (Python/ML)
