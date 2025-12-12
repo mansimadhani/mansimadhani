@@ -4,6 +4,6 @@ A junior at the University of Texas at Austin, pursuing a B.S. in Computer Scien
 
 ## Skills
 
-**Languages:** Java, Python, C, JavaScript, TypeScript, SQL  
+**Languages:** Java, Python, C, JavaScript, TypeScript, SQL, HTML/CSS  
 **Frameworks & Libraries:** React, Node.js, Pandas, Numpy, Matplotlib   
 **Tools & Software:** Git, GitHub, GitLab, VS Code, Linux, Figma, Jupyter Notebook (Python/ML)
